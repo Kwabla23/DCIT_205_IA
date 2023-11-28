@@ -1,0 +1,26 @@
+ * {
+    padding: 0;
+    box-sizing: 0;
+ }
+
+ #section {
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aliceblue;
+    width: 75%;
+    text-align: center;
+ }
+
+ body {
+   background-color: rgba(0, 0, 0, 0.5);
+   background-size: 2000px 2000px;
+   background-repeat: no-repeat;
+ }
+ body {
+   background-image: url("great-hall-artwork\ \(1\).png");
+   
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+   background-color: rgb(240, 255, 249);
+ }
